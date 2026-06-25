@@ -64,16 +64,16 @@ Features analyzed:
 
 ## Dashboard Pages
 ### Overview Page
-![Dashboard 1](powerbi/screenshots/Overview_dashboard.png)
+![PowerBI screenshots](powerbi/screenshots/Overview_dashboard.png)
 
 ### Customer Profile
-![Dashboard 2](powerbi/screenshots/customer_profile.png)
+![PowerBI screenshots](powerbi/screenshots/customer_profile.png)
 
 ### Campaign Performance
-![Dashboard 3](powerbi/screenshots/campaign_performance.png)
+![PowerBI screenshots](powerbi/screenshots/campaign_performance.png)
 
 ### Financial Insights
-![Dashboard 4](powerbi/screenshots/Financial_Insights.png)
+![PowerBI screenshots](powerbi/screenshots/Financial_Insights.png)
 
 ### Overview
 Summary of customer subscriptions.
