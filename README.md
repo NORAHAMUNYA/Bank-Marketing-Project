@@ -9,7 +9,7 @@ The objective of this analysis was to answer key business questions:
 -How can marketing resources be allocated more efficiently?
 
 The project follows an end-to-end analytics workflow:
-Python → SQL Server → Power BI
+Python → SQL Server → Power BI → Business Insights and Recommendations
 
 ---
 
@@ -68,6 +68,7 @@ Features analyzed:
 ---
 
 ## PowerBI screenshots
+Interactive dashboards were developed to analyze customer behavior, campaign effectiveness, and subscription outcomes.
 ### Overview dashboard
 ![view Overview dashboard screenshot](Power%20BI/PowerBI%20screenshots/Overview%20dashboard.png)
 
