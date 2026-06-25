@@ -62,7 +62,7 @@ Features analyzed:
 
 ---
 
-## Dashboard Pages
+## PowerBI screenshots
 ### Overview Page
 ![Overview dashboard](PowerBI%20screenshots/Overview%20dashboard.png)
 
