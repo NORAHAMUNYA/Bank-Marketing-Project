@@ -62,9 +62,9 @@ Features analyzed:
 
 ---
 
-## powerbi_screenshots
+## PowerBI screenshots
 ### Overview dashboard
-![Overview dashboard](./powerbi_screenshots/Overview%20dashboard.png)
+![Overview dashboard](Power%20BI/PowerBI%20screenshots/Overview%20dashboard.png)
 
 ### customer profile
 ![customer profile](./powerbi_screenshots/customer%20profile.png)
