@@ -62,30 +62,30 @@ Features analyzed:
 
 ---
 
-## PowerBI screenshots
-### Overview Page
-![Overview dashboard](PowerBI%20screenshots/Overview%20dashboard.png)
+## powerbi_screenshots
+### Overview dashboard
+![Overview dashboard](./powerbi_screenshots/Overview%20dashboard.png)
 
-### Customer Profile
-![customer profile](PowerBI%20screenshots/customer%20profile.png)
+### customer profile
+![customer profile](./powerbi_screenshots/customer%20profile.png)
 
-### Campaign Performance
-![campaign performance](PowerBI%20screenshots/campaign%20performance.png)
+### campaign performance
+![campaign performance](./powerbi_screenshots/campaign%20performance.png)
 
 ### Financial Insights
-![Financial Insights](PowerBI%20screenshots/Financial%20Insights.png)
+![Financial Insights](./powerbi_screenshots/Financial%20Insights.png)
 
-### Overview
+### Overview dashboard
 Summary of customer subscriptions.
 
-### Customer Profile
+### customer profile
 Analysis by:
 - Job
 - Education
 - Marital status
 - Age
 
-### Campaign Performance
+### campaign performance
 Analysis by:
 - Campaign frequency
 - Previous outcomes
