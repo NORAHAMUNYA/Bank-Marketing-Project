@@ -121,12 +121,16 @@ Campaign performance peaked during December. This may indicate seasonal effects,
 ## Business Recommendations
 -Recommendation 1: Prioritize high-performing customer segments
 Develop targeted campaigns for customer groups that demonstrated stronger conversion performance, particularly where customer characteristics consistently align with successful outcomes.
+
 -Recommendation 2: Optimize contact strategy
 Reduce excessive repeat outreach and focus on improving message quality, timing, and relevance during initial campaign interactions.
+
 -Recommendation 3: Strengthen mobile-first engagement
 Increase investment in cellular and digital communication channels to improve campaign reach and customer responsiveness.
+
 -Recommendation 4: Leverage seasonal campaign opportunities
 Increase campaign activity and promotional efforts during periods that historically show stronger conversion performance, while monitoring results across other months.
+
 -Recommendation 5: Introduce customer segmentation and predictive targeting
 Use customer demographic and behavioral indicators to support more efficient campaign planning and improve future conversion rates.
 
